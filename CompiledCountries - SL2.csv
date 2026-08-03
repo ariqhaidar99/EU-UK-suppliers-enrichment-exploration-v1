@@ -1,0 +1,80 @@
+company_name,website,vat_id,reg_id,nace_code,nace_desc_eng,industry_impact,baseline_adjustment,default_esg_priority,estimated_raw_score,estimated_final_score,estimated_classification,country_iso
+Addiko Bank d.d.,https://www.addiko.si,SI75482894,1319175000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.75,0.75,Advanced,SI
+"ADRIA AIRWAYS SLOVENSKI LETALSKI PREVOZNIK, D.D.",https://www.adria.si,SI51049406,5156505000,H51.100,passenger air traffic,High-Impact,-0.05,E,0.36,0.31,Limited,SI
+ÅF Pöyry Slovenia,,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.41,0.41,Emerging,SI
+Affidea Slovenia,,,,Q86.900,Other human health activities,Medium-Impact,0,S,0.39,0.39,Limited,SI
+Afry Slovenia,https://www.afry.com,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.5,0.5,Emerging,SI
+AIG Slovenia,https://www.aig.si,,,K65.120,Non-life insurance,Medium-Impact,0,G,0.75,0.75,Advanced,SI
+Akkodis Slovenia,https://www.akkodis.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.53,0.53,Emerging,SI
+"Allianz Slovenija, podružnica ",https://www.allianz.com,SI67112510,8202893000,K65.120,"insurance activity, except for life",Medium-Impact,0,G,0.66,0.66,Progressing,SI
+AXA Partners Slovenia,https://www.axa.com,,,K65.120,Non-life insurance,Medium-Impact,0,G,0.71,0.71,Advanced,SI
+Ba.Ro.Na d.o.o.,https://www.barona.org,SI68762364,2323532000,G46.690,wholesale of other devices and equipment,Medium-Impact,0,S,0.36,0.36,Limited,SI
+Banka Intesa Sanpaolo d.d.,https://www.banka.si,SI98026305,5092221000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.68,0.68,Progressing,SI
+BANKA SLOVENIJE,https://www.sberbank.com,SI92582087,5023912000,K64.110,central banking,Medium-Impact,0,G,0.73,0.73,Advanced,SI
+BDO Svetovanje d.o.o.,https://www.bdo.si,SI92266134,5503701000,M70.220,other entrepreneurial and business consulting,Low-Impact,0,G,0.65,0.65,Progressing,SI
+"Bolha tiskanje, Klemen Bolha s.p.",https://www.bolha.com,SI68951566,9423834000,C18.120,second printing,High-Impact,-0.05,E,0.39,0.34,Limited,SI
+Bravida Slovenia,https://www.bravida.com,,,F43.210,Electrical installation,Medium-Impact,0,E,0.48,0.48,Emerging,SI
+Brunel Slovenia,https://www.brunel.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.46,0.46,Emerging,SI
+Bunq Slovenia,https://www.bunq.si,,,K64.190,Other monetary intermediation,Medium-Impact,0,G,0.39,0.39,Limited,SI
+Caverion Slovenia,https://www.caverion.com,,,F43.210,Electrical installation,Medium-Impact,0,E,0.47,0.47,Emerging,SI
+Celtra d.o.o.,,SI46737332,3541649000,J62.090,other activities related to information technology and computer services,Low-Impact,0,G,0.51,0.51,Emerging,SI
+COWI Slovenia,https://www.cowi.com,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.35,0.35,Limited,SI
+DELAVSKA HRANILNICA d.d. LJUBLJANA,,SI47523638,5448557000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.51,0.51,Emerging,SI
+ELEKTRO LJUBLJANA d.d.,https://www.elektro.com,SI49977725,5227992000,D35.130,distribution of electricity,High-Impact,-0.05,E,0.49,0.44,Emerging,SI
+"ELES, d.o.o.",https://www.eles.si,SI 20874731,5427223000,D35.120,transmission of electricity,High-Impact,-0.05,E,0.42,0.37,Limited,SI
+eToro Slovenia,https://www.etoro.si,,,K64.990,"Other financial service activities, except insurance and pension funding n.e.c.",Medium-Impact,0,G,0.38,0.38,Limited,SI
+Etteplan Slovenia,https://www.etteplan.com,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.54,0.54,Emerging,SI
+EVBox Slovenia,https://www.evbox.si,,,C27.120,Manufacture of electricity distribution and control apparatus,High-Impact,-0.05,E,0.42,0.37,Limited,SI
+"GEN-I, d.o.o.",https://www.geni.si,SI71345442,1587714000,D35.140,electricity trading,High-Impact,-0.05,E,0.37,0.32,Limited,SI
+GENERALI d.d.,https://www.generali.com,SI88725324,5186684000,K65.110,life insurance activity,Medium-Impact,0,G,0.66,0.66,Progressing,SI
+Gi Group Slovenia,https://www.gi.si,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.52,0.52,Emerging,SI
+"GORENJSKA BANKA D.D., KRANJ",https://www.gorenjska.si,SI42780071,5103061000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.74,0.74,Advanced,SI
+Grafton Recruitment Slovenia,https://www.grafton.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.51,0.51,Emerging,SI
+Grant Thornton Consulting d.o.o.,https://www.grantthornton.si,SI18933670,1279009000,M69.200,"accounting, bookkeeping and audit activities, tax consultancy",Low-Impact,0,G,0.5,0.5,Emerging,SI
+HOFER trgovina d.o.o.,https://www.hofer.si,SI91043522,1992414000,G47.110,"retail trade in non-specialized stores, mainly with foodstuffs",Medium-Impact,0,S,0.73,0.73,Advanced,SI
+Honeywell Safety Products Slovenia,https://www.honeywell.si,,,C32.990,Other manufacturing n.e.c.,High-Impact,-0.05,E,0.54,0.49,Emerging,SI
+JP VOKA SNAGA d.o.o.,https://www.snaga.com,SI64520463,5046688000,E36.000,"collection, purification and distribution of water",High-Impact,-0.05,E,0.43,0.38,Limited,SI
+Kelly Services Slovenia,https://www.kellyservices.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.46,0.46,Emerging,SI
+KONJENIŠKI KLUB TUŠ,https://www.tus.si,SI97495115,4056400000,S94.999,activity of membership organizations not elsewhere classified,Medium-Impact,0,E,0.52,0.52,Emerging,SI
+"Mercator IP, d.o.o.",https://www.mercator.si,SI15965660,2054485000,G46.900,non-specialized wholesale trade,Medium-Impact,0,S,0.47,0.47,Emerging,SI
+Modis Slovenia,https://www.modis.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.52,0.52,Emerging,SI
+Multiconsult Slovenia,,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.47,0.47,Emerging,SI
+Newsec Slovenia,https://www.newsec.com,,,L68.310,Real estate agencies,Medium-Impact,0,E,0.49,0.49,Emerging,SI
+Norconsult Slovenia,https://www.norconsult.com,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.36,0.36,Limited,SI
+"NOVA LJUBLJANSKA BANKA D.D., LJUBLJANA",https://www.nlb.si,SI91132550,5860571000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.68,0.68,Progressing,SI
+Odvetniška pisarna WOLF THEISS - Podružnica v Sloveniji,https://www.wolf.com,SI56126859,3373860000,M69.101,legal profession,Low-Impact,0,G,0.41,0.41,Emerging,SI
+"OTP banka d.d., Poslovalnica Koper",https://www.skb.com,SI94314527,5860580000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.66,0.66,Progressing,SI
+Outfit7,https://www.outfit7.com,,,J62.010,Computer programming activities,Low-Impact,0,G,0.68,0.68,Progressing,SI
+PayPal Slovenia,https://www.paypal.com,,,K64.990,"Other financial service activities, except insurance and pension funding n.e.c.",Medium-Impact,0,G,0.67,0.67,Progressing,SI
+PE LJUBLJANA,,SI67103090,8414548001,S94.999,activity of membership organizations not elsewhere classified,Medium-Impact,0,E,0.41,0.41,Emerging,SI
+PETROL d.d.,https://www.petrol.si,SI80267432,5025796000,G47.301,retail trade with own motor fuels,Medium-Impact,0,S,0.48,0.48,Emerging,SI
+PLANINSKO DRUŠTVO ABANKA,,SI33472149,5165628000,R93.120,activity of sports clubs,Medium-Impact,0,E,0.7,0.7,Advanced,SI
+POŠTA SLOVENIJE d.o.o.,https://www.posta.com,SI25028022,5881447000,H53.100,implementation of the universal postal service,Medium-Impact,0,E,0.42,0.42,Emerging,SI
+Pöyry Slovenia,https://www.pyry.eu,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.39,0.39,Limited,SI
+"R.S.M., d.o.o. ",https://www.rsm.si,SI32810059,6321038000,S96.021,hairdressing business,Medium-Impact,0,E,0.4,0.4,Emerging,SI
+RAIFFEISEN trgovina d.o.o.,https://www.raiffeisenbank.com,SI80684858,1319779000,G46.900,non-specialized wholesale trade,Medium-Impact,0,S,0.54,0.54,Emerging,SI
+Rejlers Slovenia,https://www.rejlers.com,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.48,0.48,Emerging,SI
+"REVOLUT - G, raziskave, razvoj in prodaja, d.o.o.",https://www.revolut.com,SI83719172,8378959000,M72.190,research and development activity in other fields of natural science and technology,Low-Impact,0,G,0.74,0.74,Advanced,SI
+Semcon Slovenia,https://www.semcon.com,,,M71.120,Engineering activities and related technical consultancy,Low-Impact,0,G,0.38,0.38,Limited,SI
+"SLOVENSKE ŽELEZNICE, d.o.o.",https://www.slovenske.com,SI18190995,5142733000,M70.100,activity of company administrations,Low-Impact,0,G,0.5,0.5,Emerging,SI
+Smurfit Kappa Slovenia,https://www.smurfitkappa.com,,,C17.210,Manufacture of corrugated paper and paperboard,High-Impact,-0.05,E,0.67,0.62,Progressing,SI
+Spring Professional Slovenia,https://www.spring.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.43,0.43,Emerging,SI
+Starr Insurance Slovenia,https://www.starr.com,,,K65.120,Non-life insurance,Medium-Impact,0,G,0.55,0.55,Progressing,SI
+Stripe Slovenia,https://www.stripe.si,,,K64.990,"Other financial service activities, except insurance and pension funding n.e.c.",Medium-Impact,0,G,0.75,0.75,Advanced,SI
+Synergie Slovenia,https://www.synergie.com,,,N78.200,Temporary employment agency activities,Medium-Impact,0,S,0.46,0.46,Emerging,SI
+Synlab Slovenia,https://www.synlab.si,,,Q86.900,Other human health activities,Medium-Impact,0,S,0.49,0.49,Emerging,SI
+T-Mobile Slovenia,,,,J61.200,Wireless telecommunications activities,Low-Impact,0,G,0.78,0.78,Advanced,SI
+Talanx Slovenia,https://www.talanx.com,,,K65.120,Non-life insurance,Medium-Impact,0,G,0.51,0.51,Emerging,SI
+"TELEKOM SLOVENIJE, d.d.",https://www.telekom.si,SI98511734,5014018000,J61.100,telecommunications activities over water,Low-Impact,0,G,0.68,0.68,Progressing,SI
+Telemach Slovenija d.o.o.,https://www.telemach.si,SI66863627,5692229000,J61.200,wireless telecommunications activities,Low-Impact,0,G,0.36,0.36,Limited,SI
+Tide Slovenia,https://www.tide.com,,,K64.990,"Other financial service activities, except insurance and pension funding n.e.c.",Medium-Impact,0,G,0.41,0.41,Emerging,SI
+Travelers Slovenia,https://www.travelers.com,,,K65.120,Non-life insurance,Medium-Impact,0,G,0.69,0.69,Progressing,SI
+UNIVERZITETNI KLINIČNI CENTER LJUBLJANA,https://www.ukc.com,SI52111776,5057272000,Q86.100,hospital health activity,Medium-Impact,0,S,0.39,0.39,Limited,SI
+UNICREDIT BANKA SLOVENIJA d.d.,https://www.unicredit.eu,SI59622806,5446546000,K64.190,other monetary intermediation,Medium-Impact,0,G,0.79,0.79,Advanced,SI
+UNIVERZA V LJUBLJANI,https://www.university.si,SI54162513,5085063000,P85.422,higher education,Low-Impact,0,G,0.53,0.53,Emerging,SI
+"VODOVOD - KANALIZACIJA, d.o.o.",https://www.vodovod.com,SI45804109,5914540000,E36.000,"collection, purification and distribution of water",High-Impact,-0.05,E,0.41,0.36,Limited,SI
+Wallbox Slovenia,https://www.wallbox.si,,,C27.120,Manufacture of electricity distribution and control apparatus,High-Impact,-0.05,E,0.48,0.43,Emerging,SI
+Wise Slovenia,https://www.wise.si,,,K64.990,"Other financial service activities, except insurance and pension funding n.e.c.",Medium-Impact,0,G,0.43,0.43,Emerging,SI
+Wüstenrot Slovenia,,,,K64.190,Other monetary intermediation,Medium-Impact,0,G,0.53,0.53,Emerging,SI
+"ZAVAROVALNICA TRIGLAV, d.d.",https://www.triglav.si,SI80040306,5063345000,K65.120,"insurance activity, except for life",Medium-Impact,0,G,0.44,0.44,Emerging,SI
+Zemanta,https://www.zemanta.si,,,J62.010,Computer programming activities,Low-Impact,0,G,0.4,0.4,Emerging,SI
