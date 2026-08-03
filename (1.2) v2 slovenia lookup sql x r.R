@@ -96,4 +96,5 @@ dbDisconnect(con)
 fwrite(matched_results, "v2_slovenia_matched_results.csv")
 print("Pipeline complete! Matched results saved.")
 
-# Note: please re-check anything with an similarity score of below 0.600
+# Note: please re-check anything with a similarity score below 0.600 by searching up the reg_id on https://www.ajpes.si/prs/
+# Please manually input the vat_id from https://www.ajpes.si/prs/
