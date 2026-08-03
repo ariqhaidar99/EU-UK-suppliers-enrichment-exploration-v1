@@ -1,37 +1,35 @@
-# Slovenian Business Registry Matching & NACE Translation Pipeline
+# Slovenia Suppliers Enrichment and Exploration Pipeline
 
-A high-performance, database-backed ETL and text processing pipeline built in **R** and **PostgreSQL**. This pipeline handles raw open-data ingestion, database indexing, entity matching, and automated multi-language NACE code translation.
-
----
-
-## 🛑 Important Pre-Execution Instructions
-* **README 1:** Before running the workflow, please ensure all NACE codes are manually verified and filled from [Stop Neplačniki](https://www.stop-neplacniki.si/).
-* **README 2:** Please ensure that there are strictly **only 5 variables** when checking the structure via `str(df)` on the input dataset.
+A high-performance data engineering and proxy scoring pipeline built in **R** and **PostgreSQL**. This repository automates open-data ingestion, database-backed fuzzy matching, automated NACE code translation, and deterministic heuristic ESG proxy scoring.
 
 ---
 
-## 🚀 Architecture Overview
-1. **ETL Ingestion & Normalization:** Parses raw UTF-16 encoded European open-data files (`opsiprs.csv`), converts them to UTF-8, and normalizes headers for database compatibility.
-2. **Database Indexing:** Loads registry records into a local PostgreSQL instance and builds a **Generalized Inverted Index (`GIN`)** using the `pg_trgm` (trigram) extension.
-3. **Execution & Translation:** Queries the database for matched company records, cleans target names, extracts precise NACE classifications, and translates Slovenian descriptions into English via translation packages.
+## 🛑 Important Pre-Execution Notes
+* **Manual Verification:** Ensure all open-data NACE codes are cross-verified and populated from [Stop Neplačniki](https://www.stop-neplacniki.si/) before secondary text extraction.
+* **Variable Enforcement:** Target datasets must strictly adhere to a 5-variable schema (`str(df)`) prior to translation processing.
 
 ---
 
-## 🛠️ Prerequisites & Setup
+## 📂 Repository Workflow Structure
 
-### 1. Requirements
-* **R** (with packages: `data.table`, `DBI`, `RPostgres`, `stringr`, `polyglotr`)
-* **PostgreSQL** installed and running locally
+The pipeline executes sequentially across three modular R scripts and relies on a structured proxy defense framework:
 
-### 2. Required Input Files
-* `opsiprs.csv` — Raw Slovenian Business Register dataset from the [EU Open Data Portal](https://data.europa.eu/data/datasets/poslovni-register-slovenije?locale=en) (strip all columns except registration ID and company name using Excel/LibreOffice for optimization).
-* `CompiledCountries - SL (reset.csv)` — Target list of companies to match.
-* `CompiledCountries - SL (fixed2.csv)` — Prepared dataset for secondary NACE code parsing and translation processing.
+1. **Database-Backed Fuzzy Matching (`(1.2) v2 lookup SQL x R.R`)**
+   * Ingests raw UTF-16 registry data (`opsiprs.csv`), normalizes it to UTF-8, and loads it into a local PostgreSQL instance.
+   * Leverages the `pg_trgm` extension and **GIN trigram indexing** to perform high-speed fuzzy string matching against target company lists.
+
+2. **NACE Translation & Extraction Layer (`(1.5) slovenian to english nace translation layer.R`)**
+   * Extracts clean NACE codes (including sector letters) and description components.
+   * Utilizes translation libraries to convert Slovenian business descriptions into English equivalents.
+
+3. **Dictionary Mapping & Proxy Scoring Pipeline (`(1.7) v2 nace fill and scoring.R`)**
+   * Resolves unlisted multinational entities ("phantom companies") via a pre-defined NACE dictionary map.
+   * Calculates structural baseline adjustments based on sector impact and generates a deterministic heuristic ESG score and classification bracket using controlled random distributions (`set.seed(42)`).
 
 ---
 
-## 💻 Usage Instructions
+## 📊 Methodology Defense & Framework
 
-1. Open your PostgreSQL instance and create a blank database:
-   ```sql
-   CREATE DATABASE slovenia_db2;
+For full details regarding the heuristic proxy scoring model, corporate profiling tiers, and sector impact penalties, refer to the accompanying methodology documentation **(`(1.9) Slovenia_Proxy_Scoring_Defense_Methodology.txt`).** 
+
+The proxy model serves as an interim structural placeholder, providing immediate mathematical defensibility for pipeline testing and dashboard integration before integrating empirical third-party datasets.
