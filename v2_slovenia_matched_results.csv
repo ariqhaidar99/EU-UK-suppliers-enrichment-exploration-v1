@@ -1,0 +1,85 @@
+original_target_name,clean_search_name,matched_official_name,reg_id,similarity_score
+GEN-I,GEN-I,ŠPORTNO DRUŠTVO GEN-I,4099583000,0.273
+Petrol,Petrol,PETROL SKLADIŠČENJE D.O.O.,1721895001,0.292
+NLB,NLB,DRUŠTVO UPOKOJENCEV NLB,4097424000,0.167
+Telekom Slovenije,Telekom Slovenije,"TELEKOM SLOVENIJE, d.d.",5014018000,0.9
+Wolf Theiss Slovenia,Wolf Theiss,Odvetniška pisarna WOLF THEISS - Podružnica v Sloveniji,3373860000,0.226
+Bolha Slovenia,Bolha,"Bolha tiskanje, Klemen Bolha s.p.",9423834000,0.231
+Honeywell Safety Products Slovenia,Honeywell Safety Products,"LA Products, gostinske storitve, d.o.o.",8421528000,0.196
+Revolut Slovenia,Revolut,"REVOLUT - G, raziskave, razvoj in prodaja, d.o.o.",8378959000,0.211
+Bunq Slovenia,Bunq,BUNC kardiologija d.o.o.,2271451000,0.125
+Wise Slovenia,Wise,"WISE UP, izobraževanje, d.o.o.",8610665000,0.192
+PayPal Slovenia,PayPal,EKOPAL palete d.o.o.,8492328000,0.2
+Stripe Slovenia,Stripe,Zavod Strip art,6809669000,0.278
+eToro Slovenia,eToro,"EL-TORO, gostinstvo, d.o.o.",8370168000,0.16
+Tide Slovenia,Tide,TINDE D.O.O.,5644518001,0.25
+Allianz Slovenia,Allianz,"ALLIANCE, poslovno svetovanje, d.o.o.",6688691000,0.171
+Generali Slovenia,Generali,GENERALI zavarovalnica d.d.,5186684000,0.36
+Talanx Slovenia,Talanx,TATTOO DRUŠTVO DALANO TATTOO,1768409000,0.167
+Wüstenrot Slovenia,Wüstenrot,"Matej Jerot s.p., osebni asistent",9870202000,0.105
+AXA Partners Slovenia,AXA Partners,"AP PARTNER, storitve, d.o.o.",8206961000,0.276
+Starr Insurance Slovenia,Starr Insurance,"Arkos.Insurance., poslovne storitve d.o.o.",6558607000,0.286
+AIG Slovenia,AIG,AIDA D.O.O. PREKOPA,5549353001,0.105
+Travelers Slovenia,Travelers,"Travelers Stay, hotelske storitve, d.o.o.",9499636000,0.286
+Kelly Services Slovenia,Kelly Services,"ZR-SERVICES, servis strojev d.o.o.",9303189000,0.29
+Gi Group Slovenia,Gi Group,DenMax Group d.o.o.,7354665000,0.333
+Synergie Slovenia,Synergie,"ECOSYNERGY SYSTEM, sistem ekosinergije, d.o.o.",7237537000,0.189
+Brunel Slovenia,Brunel,KLEMEN BRUN - SLIKAR,1892517000,0.182
+Grafton Recruitment Slovenia,Grafton Recruitment,"RENT BAU, gradbeništvo d.o.o.",8636532000,0.179
+Modis Slovenia,Modis,C & A MODA d.o.o.,1593838000,0.188
+Akkodis Slovenia,Akkodis,AKACIJE,1030094000,0.143
+Spring Professional Slovenia,Spring Professional,"FRIZERSTVO PETRA PROFESSIONAL, PETRA TOPLER FILIP S.P.",6348777000,0.28
+Barona Slovenia,Barona,BARON INTERNATIONAL trgovina d.o.o.,5581397000,0.212
+Newsec Slovenia,Newsec,NEŽA D.O.O.,5377994001,0.143
+Caverion Slovenia,Caverion,Nerion svetovanje d.o.o.,7307209000,0.148
+Bravida Slovenia,Bravida,"BRAVI d.o.o., PE VURNIKOVA",5920094001,0.192
+COWI Slovenia,COWI,ŽUPNIJA COL,1119770000,0.133
+Norconsult Slovenia,Norconsult,"NORD CONSULTING d.o.o., Ljubljana",5341167000,0.242
+Multiconsult Slovenia,Multiconsult,"AOS CONSULTING, d.o.o.",8665516000,0.24
+Afry Slovenia,Afry,"AFROTERA d.o.o., PE",8362190001,0.167
+Pöyry Slovenia,Pöyry,Rotary klub Ptuj,1144707000,0.095
+Rejlers Slovenia,Rejlers,"Frizerstvo Sonja, Sonja Rejec s.p.",9652019001,0.133
+Etteplan Slovenia,Etteplan,GRADNJE ŽVEPLAN d.o.o.,1197738000,0.16
+Semcon Slovenia,Semcon,OBČINA SEMIČ,5880262000,0.176
+ÅF Pöyry Slovenia,ÅF Pöyry,Rotary klub Ptuj,1144707000,0.083
+Wallbox Slovenia,Wallbox,"TOOLBOX, trgovina, d.o.o.",9469273000,0.12
+EVBox Slovenia,EVBox,ENO,2686392000,0.111
+NLB (Nova Ljubljanska banka),NLB (Nova Ljubljanska banka),"NOVA LJUBLJANSKA BANKA d.d., Ljubljana",5860571000,0.759
+SKB banka,SKB banka,OTP banka d.d.,5860580000,0.375
+Abanka,Abanka,PLANINSKO DRUŠTVO ABANKA,5165628000,0.28
+UniCredit Banka Slovenija,UniCredit Banka,UNICREDIT BANKA SLOVENIJA d.d.,5446546002,0.571
+Zavarovalnica Triglav,Zavarovalnica Triglav,"ZAVAROVALNICA TRIGLAV, d.d.",5063345000,0.917
+Elektro Ljubljana,Elektro Ljubljana,SINDIKAT SKUPINE ELEKTRO LJUBLJANA,5964326000,0.529
+UKC Ljubljana,UKC Ljubljana,PE LJUBLJANA,8414548001,0.588
+UKC Maribor,UKC Maribor,IVD MARIBOR P.O.,5051720005,0.4
+Addiko Bank Slovenia,Addiko Bank,Addiko Bank d.d.,1319175000,0.857
+Gorenjska banka,Gorenjska banka,"GORENJSKA BANKA D.D., KRANJ",5103061000,0.652
+Banka Intesa Sanpaolo,Banka Intesa Sanpaolo,Banka Intesa Sanpaolo d.d.,5092221000,0.917
+Delavska hranilnica,Delavska hranilnica,SINDIKAT DELAVSKA HRANILNICA,2062623000,0.69
+Sberbank banka,Sberbank banka,BANKA SLOVENIJE,5023912000,0.318
+Banka Koper,Banka Koper,"OTP banka d.d., Poslovalnica Koper",5860580106,0.387
+Raiffeisenbank Slovenia,Raiffeisenbank,RAIFFEISEN trgovina d.o.o.,1319779000,0.345
+Mercator Slovenia,Mercator,MERCATOR KZ SEVNICA Z.O.O.,5106079020,0.375
+Hofer Slovenia (Aldi),Hofer  (Aldi),"ALFATIM, holding d.o.o.",6287484000,0.192
+Tuš,Tuš,KONJENIŠKI KLUB TUŠ,4056400000,0.211
+Slovenske železnice,Slovenske železnice,"SLOVENSKE ŽELEZNICE, d.o.o.",5142733000,0.833
+Pošta Slovenije,Pošta Slovenije,POŠTA SLOVENIJE d.o.o.,5881447000,0.8
+Adria Airways,Adria Airways,"ADRIA AIRWAYS SLOVENSKI LETALSKI PREVOZNIK, D.D.",5156505001,0.31
+Outfit7,Outfit7,"OUTFIT, spletna trgovina in storitve, d.o.o.",8682135000,0.154
+Celtra,Celtra,"TV CELJE d.o.o., Celje",5318297000,0.176
+Zemanta,Zemanta,"ZEMA, rešitve, d.o.o.",3381382000,0.19
+University of Ljubljana,University of Ljubljana,UNIVERZA V LJUBLJANI,5085063000,0.452
+Smurfit Kappa Slovenia,Smurfit Kappa,SID Kapital d.o.o.,9812385000,0.154
+Telemach Slovenia,Telemach,TELEMARK KLUB KRANJ,5969824000,0.273
+T-Mobile Slovenia,T-Mobile,"DALMAS d.o.o., PE DALMAS MOBILE",9640452001,0.318
+ELES Slovenia,ELES,"ŠPORTNO DRUŠTVO ELES, D.O.O.",1678604000,0.208
+Elektro Maribor,Elektro Maribor,Športno društvo Elektro Maribor,5976405000,0.5
+Elektro Celje,Elektro Celje,"DM ELEKTRO d.o.o., PE CELJE",7265182001,0.609
+Elektro Primorska,Elektro Primorska,ŠPORTNO DRUŠTVO ELEKTRO PRIMORSKA,5905265000,0.529
+Vodovod Ljubljana,Vodovod Ljubljana,PE LJUBLJANA,8414548001,0.5
+Snaga Slovenia,Snaga,SLOGA,4106121000,0.2
+BDO Slovenia,BDO,BDO Svetovanje d.o.o.,5503701000,0.211
+Grant Thornton Slovenia,Grant Thornton,"Grant Thornton Audit revizijska družba, d.o.o.",1214225000,0.357
+RSM Slovenia,RSM,"RSM DREAMLINE, trgovina in storitve d.o.o.",8396744000,0.105
+Affidea Slovenia,Affidea,"ANIDEA arhitektura, d.o.o.",7436971000,0.154
+Synlab Slovenia,Synlab,SYNGENTA AGRO d.o.o.,5524032000,0.136
