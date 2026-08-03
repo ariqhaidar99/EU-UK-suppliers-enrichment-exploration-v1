@@ -1,0 +1,85 @@
+company_name,website,vat_id,company_reg_number,score,priority,nace_codes,country
+GEN-I,https://www.geni.si,,,0.03,E,D35,SI
+Petrol,https://www.petrol.si,,,0.33,S,G47.3,SI
+NLB,https://www.nlb.si,,,0.18,G,K64,SI
+Telekom Slovenije,https://www.telekom.si,,,0.25,G,J61,SI
+Wolf Theiss Slovenia,https://www.wolf.com,,,0.08,G,M70.2,SI
+Bolha Slovenia,https://www.bolha.com,,,0,G,L68,SI
+Honeywell Safety Products Slovenia,https://www.honeywell.si,,,0.33,S,Q86,SI
+Revolut Slovenia,https://www.revolut.com,,,0.13,G,K64,SI
+Bunq Slovenia,https://www.bunq.si,,,0.08,G,K64,SI
+Wise Slovenia,https://www.wise.si,,,0.13,G,K64,SI
+PayPal Slovenia,https://www.paypal.com,,,0.08,G,K64,SI
+Stripe Slovenia,https://www.stripe.si,,,0,G,K64,SI
+eToro Slovenia,https://www.etoro.si,,,0,G,K64,SI
+Tide Slovenia,https://www.tide.com,,,0,G,K64,SI
+Allianz Slovenia,https://www.allianz.com,,,0.13,G,K64,SI
+Generali Slovenia,https://www.generali.com,,,0.38,S,K64,SI
+Talanx Slovenia,https://www.talanx.com,,,0.08,G,K64,SI
+Wüstenrot Slovenia,,,,0.08,G,K64,SI
+AXA Partners Slovenia,https://www.axa.com,,,0.08,G,K64,SI
+Starr Insurance Slovenia,https://www.starr.com,,,0.08,G,K65.1,SI
+AIG Slovenia,https://www.aig.si,,,0.08,G,K64,SI
+Travelers Slovenia,https://www.travelers.com,,,0.08,G,K64,SI
+Kelly Services Slovenia,https://www.kellyservices.com,,,0.08,S,P85,SI
+Gi Group Slovenia,https://www.gi.si,,,0.33,S,P85,SI
+Synergie Slovenia,https://www.synergie.com,,,0,S,P85,SI
+Brunel Slovenia,https://www.brunel.com,,,0.08,S,P85,SI
+Grafton Recruitment Slovenia,https://www.grafton.com,,,0.08,S,P85,SI
+Modis Slovenia,https://www.modis.com,,,0,S,P85,SI
+Akkodis Slovenia,https://www.akkodis.com,,,0.33,S,P85,SI
+Spring Professional Slovenia,https://www.spring.com,,,0.08,S,P85,SI
+Barona Slovenia,https://www.barona.org,,,0.08,S,P85,SI
+Newsec Slovenia,https://www.newsec.com,,,0.08,G,L68,SI
+Caverion Slovenia,https://www.caverion.com,,,0.33,S,L68,SI
+Bravida Slovenia,https://www.bravida.com,,,0.08,G,L68,SI
+COWI Slovenia,https://www.cowi.com,,,0.33,S,M70.2,SI
+Norconsult Slovenia,https://www.norconsult.com,,,0.33,S,M70.2,SI
+Multiconsult Slovenia,,,,0.33,S,M70.2,SI
+Afry Slovenia,https://www.afry.com,,,0.33,S,M70.2,SI
+Pöyry Slovenia,https://www.pyry.eu,,,0.33,S,M70.2,SI
+Rejlers Slovenia,https://www.rejlers.com,,,0.33,S,M70.2,SI
+Etteplan Slovenia,https://www.etteplan.com,,,0.25,G,M70.2,SI
+Semcon Slovenia,https://www.semcon.com,,,0.25,G,M70.2,SI
+ÅF Pöyry Slovenia,,,,0.33,S,M70.2,SI
+Wallbox Slovenia,https://www.wallbox.si,,,0.28,S,D35.1.1,SI
+EVBox Slovenia,https://www.evbox.si,,,0.28,S,D35.1.1,SI
+NLB (Nova Ljubljanska banka),https://www.nlb.si,,,0,G,K64.1.9,SI
+SKB banka,https://www.skb.com,,,0.08,G,K64.1.9,SI
+Abanka,,,,0.13,G,K64.1.9,SI
+UniCredit Banka Slovenija,https://www.unicredit.eu,,,0.33,S,K64.1.9,SI
+Zavarovalnica Triglav,https://www.triglav.si,,,0.13,G,K65.1,SI
+Elektro Ljubljana,https://www.elektro.com,,,0.28,S,D35,SI
+UKC Ljubljana,https://www.ukc.com,,,0,S,Q86,SI
+UKC Maribor,https://www.ukc.com,,,0.13,S,Q86,SI
+Addiko Bank Slovenia,https://www.addiko.si,,,0.08,G,K64.1.9,SI
+Gorenjska banka,https://www.gorenjska.si,,,0.08,G,K64.1.9,SI
+Banka Intesa Sanpaolo,https://www.banka.si,,,0.33,S,K64.1.9,SI
+Delavska hranilnica,,,,0.08,G,K64,SI
+Sberbank banka,https://www.sberbank.com,,,0.13,G,K64.1.9,SI
+Banka Koper,https://www.banka.si,,,0.28,S,K64.1.9,SI
+Raiffeisenbank Slovenia,https://www.raiffeisenbank.com,,,0.08,G,K64.1.9,SI
+Mercator Slovenia,https://www.mercator.si,,,0,S,G47.1.1,SI
+Hofer Slovenia (Aldi),https://www.hofer.si,,,0.08,S,G47.1.1,SI
+Tuš,https://www.tus.si,,,0.08,S,G47,SI
+Slovenske železnice,https://www.slovenske.com,,,0.3,G,H49.1,SI
+Pošta Slovenije,https://www.posta.com,,,0.33,S,H49,SI
+Adria Airways,https://www.adria.si,,,0,E,H51,SI
+Outfit7,https://www.outfit7.com,,,0,G,J62,SI
+Celtra,,,,0,G,J62,SI
+Zemanta,https://www.zemanta.si,,,0,G,J62,SI
+University of Ljubljana,https://www.university.si,,,0.08,S,P85,SI
+Smurfit Kappa Slovenia,https://www.smurfitkappa.com,,,0.33,S,C28,SI
+Telemach Slovenia,https://www.telemach.si,,,0.25,G,J61,SI
+T-Mobile Slovenia,,,,0.2,G,J61,SI
+ELES Slovenia,https://www.eles.si,,,0.28,S,D35,SI
+Elektro Maribor,https://www.elektro.com,,,0.28,S,D35,SI
+Elektro Celje,https://www.elektro.com,,,0.28,S,D35,SI
+Elektro Primorska,https://www.elektro.com,,,0.28,S,D35,SI
+Vodovod Ljubljana,https://www.vodovod.com,,,0.28,S,D35,SI
+Snaga Slovenia,https://www.snaga.com,,,0.33,S,E38,SI
+BDO Slovenia,https://www.bdo.si,,,0.08,G,M70.2,SI
+Grant Thornton Slovenia,https://www.grantthornton.si,,,0.08,G,M70.2,SI
+RSM Slovenia,https://www.rsm.si,,,0.08,G,M70.2,SI
+Affidea Slovenia,,,,0.21,S,Q86,SI
+Synlab Slovenia,https://www.synlab.si,,,0.21,S,Q86,SI
