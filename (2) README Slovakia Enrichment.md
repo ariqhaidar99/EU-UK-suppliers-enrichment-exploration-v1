@@ -37,6 +37,6 @@ The Slovakia enrichment and scoring pipeline executes sequentially across modula
 
 ## 📊 Methodology Defense & Framework
 
-For full details on the heuristic proxy scoring model, corporate profiling tiers, and sector impact penalties, refer to the accompanying core methodology documentation **(`(1.9) README Slovenia Scoring.md`)**. 
+For full details on the heuristic proxy scoring model, corporate profiling tiers, and sector impact penalties, refer to the accompanying core methodology documentation **(`(0) README Scoring Method.md`)**. 
 
 The proxy model serves as an interim structural placeholder, providing immediate mathematical defensibility for pipeline testing and dashboard integration before integrating empirical third-party datasets (such as CDP, MSCI, or Sustainalytics).
