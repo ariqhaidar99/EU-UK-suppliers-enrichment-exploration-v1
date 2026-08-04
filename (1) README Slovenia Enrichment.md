@@ -30,6 +30,6 @@ The pipeline executes sequentially across three modular R scripts and relies on 
 
 ## 📊 Methodology Defense & Framework
 
-For full details regarding the heuristic proxy scoring model, corporate profiling tiers, and sector impact penalties, refer to the accompanying methodology documentation **(`(1.9) Slovenia_Proxy_Scoring_Defense_Methodology.txt`).** 
+For full details regarding the heuristic proxy scoring model, corporate profiling tiers, and sector impact penalties, refer to the accompanying methodology documentation **(`(0) README Scoring Method.md`).** 
 
 The proxy model serves as an interim structural placeholder, providing immediate mathematical defensibility for pipeline testing and dashboard integration before integrating empirical third-party datasets.
