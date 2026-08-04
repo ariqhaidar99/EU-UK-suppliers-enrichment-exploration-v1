@@ -1,0 +1,245 @@
+company_name,website,company_id,vat_id,nace_code,nace_desc_eng,industry_impact,baseline_adjustment,priority_category,estimated_raw_score,estimated_final_score,estimated_classification
+New Originals (SK) s. r. o.,http://www.alfabio.sk/,30223041,SK30223041,C10.890,manufacture of other food products n.e.c.,Medium-Impact,0,E,0.79,0.79,Advanced
+"ANASOFT APR, spol. s r.o.",https://anasoft apr,31361552,SK31361552,J62.010,computer programming activities,Medium-Impact,0,G,0.79,0.79,Advanced
+AQUAPROCON s.r.o.,https://www.aquaprocon.cz/,35848805,SK35848805,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.69,0.69,Progressing
+"Račianske mýto, s.r.o.",https://astoria finance,35848162,SK35848162,F43.120,site preparation,Medium-Impact,0,G,0.77,0.77,Advanced
+1 AVALON s.r.o.,https://www.avalon.sk/,47700459,SK47700459,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.75,0.75,Advanced
+"KK KUBANKA, spol. s r.o.",https://banka zilinskej,35826975,SK35826975,F41.201,construction of residential and non-residential buildings,Medium-Impact,0,G,0.73,0.73,Advanced
+Barger Prekop Services s. r. o.,https://www.bargerprekop.com/,36853640,SK36853640,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.76,0.76,Advanced
+B & S Legal s.r.o.,https://www.bartosiksvaby.sk,35929049,SK35929049,M69.100,legal activities,Medium-Impact,0,G,0.67,0.67,Progressing
+Benefit Management s.r.o.,https://www.benefitplus.sk/,NA,NA,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.48,0.48,Emerging
+Bidfood Slovakia s. r. o.,https://bidfood.com,34152199,SK34152199,G46.380,"wholesale of other food, including fish, crustaceans and molluscs",Medium-Impact,0,G,0.76,0.76,Advanced
+"BKS Bank AG, pobočka zahraničnej banky v SR",https://www.bks.sk/,36869856,SK36869856,K64.190,other monetary intermediation,Medium-Impact,0,G,0.72,0.72,Advanced
+"Brainz, s.r.o.",https://www.brain.sk/,36617440,SK36617440,J62.010,computer programming activities,Medium-Impact,0,G,0.76,0.76,Advanced
+BRANTNER Slovakia s.r.o.,http://www.brantner.sk/,31698336,SK31698336,E38.110,collection of non-hazardous waste,Medium-Impact,0,E,0.79,0.79,Advanced
+Fadrex Capital Markets s. r. o. v likvidácii,https://www.capitalmarkets.sk/,36663778,SK36663778,M73.110,advertising agencies,Medium-Impact,0,G,0.69,0.69,Progressing
+ČECHOVÁ & PARTNERS s. r. o.,https://www.cechova.sk,47249129,SK47249129,M69.100,legal activities,Medium-Impact,0,G,0.72,0.72,Advanced
+"CERVA Slovensko, s.r.o.",cerva.com,35703741,SK35703741,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.79,0.79,Advanced
+"CN group, s.r.o.",https://cn group,45526478,SK45526478,L68.310,real estate agencies,Medium-Impact,0,G,0.8,0.8,Advanced
+Delirest Slovakia s. r. o.,https://compass-group.com,31342809,SK31342809,I56.290,other food service activities,Low-Impact,0,G,0.67,0.67,Progressing
+Credo Bank,https://credobank,NA,NA,K64.190,other monetary intermediation,Medium-Impact,0,G,0.72,0.72,Advanced
+Crystal Company s. r. o.,https://crystal finance,46029923,SK46029923,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.73,0.73,Advanced
+CRYSTAL STUDIO s. r. o.,http://www.crystal0studio.com/,47166339,SK47166339,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.79,0.79,Advanced
+DOMAN Trade s.r.o.,https://doma.sk insurance brokers,47557591,SK47557591,G46.450,wholesale of perfume and cosmetics,Medium-Impact,0,G,0.67,0.67,Progressing
+"Reding Development, s.r.o. v likvidácii",doprastav.sk,36667412,SK36667412,F41.100,development of building projects,Medium-Impact,0,G,0.8,0.8,Advanced
+ECO-LOGIC LIGHTING PROJECTS s. r. o.,https://www.eco-logic.sk/,34108661,SK34108661,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.79,0.79,Advanced
+"FCC Ekologické služby, s. r. o. v likvidácii",http://www.ekologickesluzby.sk/,35900491,SK35900491,E38.320,recovery of sorted materials,Medium-Impact,0,E,0.66,0.66,Progressing
+"Mliekoservis Slovakia, a.s.",https://www.ekoservis.sk/,35820667,SK35820667,G46.330,"wholesale of dairy products, eggs and edible oils and fats",Medium-Impact,0,G,0.73,0.73,Advanced
+"Boto Enviro s.r.o.,",https://www.envipak.sk/,48130486,SK48130486,G46.190,agents involved in the sale of a variety of goods,Medium-Impact,0,G,0.71,0.71,Advanced
+"ENVI - PAK, a.s.",https://www.envipak.sk/,35858010,SK35858010,G46.191,agents involved in the sale of a variety of goods,Medium-Impact,0,G,0.79,0.79,Advanced
+"Enviroservis, s.r.o.",http://www.enviroservis.sk/,36629073,SK36629073,M71.200,technical testing and analysis,Medium-Impact,0,G,0.72,0.72,Advanced
+DOTYKY PRÍRODY s.r.o.,https://eset,35895420,SK35895420,G46.690,wholesale of other machinery and equipment,Medium-Impact,0,G,0.78,0.78,Advanced
+ESOX fishing tech s.r.o.,http://www.esox.sk/,36750018,SK36750018,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.76,0.76,Advanced
+"SPP - preprava, a.s.",eustream.sk,35910712,SK35910712,H49.501,transport via pipeline,Medium-Impact,0,G,0.77,0.77,Advanced
+EVBox B.V.,https://evbox.com,NA,NA,C27.900,manufacture of other electrical equipment,Medium-Impact,0,E,0.43,0.43,Emerging
+Experting s. r. o. v likvidácii,https://experting,44592281,SK44592281,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.75,0.75,Advanced
+"Swiss Life Select Slovensko, a. s.",https://fincentrum,36752606,SK36752606,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.65,0.65,Progressing
+"WinFin Services, s. r. o.",https://finportal,44742738,SK44742738,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.77,0.77,Advanced
+Framestore Ltd.,https://framestore.com,NA,NA,J59.120,"motion picture, video and television programme post-production activities",Medium-Impact,0,G,0.35,0.35,Limited
+"REALITNÁ A SERVISNÁ SPOLOČNOSŤ, s. r. o.",geis-group.sk,36308731,SK36308731,H52.290,other transportation support activities,Medium-Impact,0,G,0.68,0.68,Progressing
+"Glatzová & Co., s. r. o.",https://www.glatzova.com,36860506,SK36860506,M69.100,legal activities,Medium-Impact,0,G,0.79,0.79,Advanced
+GraTex International spol. s r.o.,https://gratex international,17320356,SK17320356,J62.010,computer programming activities,Medium-Impact,0,G,0.74,0.74,Advanced
+"Hillbridges, s. r. o.",https://hillbridges.sk,36799327,SK36799327,M69.100,legal activities,Medium-Impact,0,G,0.71,0.71,Advanced
+HKV Law Firm s.r.o.,https://hkvlaw.sk,36611301,SK36611301,M69.100,legal activities,Medium-Impact,0,G,0.72,0.72,Advanced
+Honeywell Safety Products Partizanske s.r.o.,https://sps.honeywell.com,36299162,SK36299162,C15.200,manufacture of footwear,Medium-Impact,0,G,0.66,0.66,Progressing
+"Hypocentrum finančné služby, a.s.",https://hypocentrum,36704571,SK36704571,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.8,0.8,Advanced
+INISOFT s. r. o.,http://www.inisoft.sk/,45234469,SK45234469,J62.090,other information technology and computer service activities,Medium-Impact,0,G,0.71,0.71,Advanced
+INSIA s.r.o.,https://insia slovakia,36227820,SK36227820,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.79,0.79,Advanced
+"TETRA inSure, s.r.o.",https://insure,35866501,SK35866501,N81.210,general cleaning of buildings,Medium-Impact,0,G,0.78,0.78,Advanced
+"IQ Finance s.r.o. ,,v likvidácií”",https://iq-finance,46938541,SK46938541,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.75,0.75,Advanced
+Novell SK s. r. o.,http://www.itsoft.sk/,47986778,SK47986778,J62.010,computer programming activities,Medium-Impact,0,G,0.8,0.8,Advanced
+"JandL, marketing a reklama, s.r.o.",jandl.sk,31356036,SK31356036,M73.110,advertising agencies,Medium-Impact,0,G,0.74,0.74,Advanced
+"Centrum pre vedu a výskum, s. r. o.",https://www.kinstellar.com,36856738,SK36856738,M72.190,other research and experimental development on natural sciences and engineering,Medium-Impact,0,G,0.7,0.7,Advanced
+KOSIT EAST s. r. o.,https://www.kosit.sk/,36211451,SK36211451,E38.110,collection of non-hazardous waste,Medium-Impact,0,E,0.7,0.7,Advanced
+L & B Insurance Brokers s.r.o.,https://lb insurance broker,36728080,SK36728080,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.71,0.71,Advanced
+LinkedIn Ireland UC,https://linkedin.com,NA,NA,P85.590,other education n.e.c.,Medium-Impact,0,G,0.51,0.51,Emerging
+Lomtec.com a.s.,https://www.lomtec.com/,35795174,SK35795174,J62.090,other information technology and computer service activities,Medium-Impact,0,G,0.66,0.66,Progressing
+MAYER & TICHT s.r.o.,mayermccann.sk,35827505,SK35827505,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.76,0.76,Advanced
+mCloud Technologies Slovakia s. r. o.,https://www.mclaw.sk,31560865,SK31560865,J62.010,computer programming activities,Medium-Impact,0,G,0.75,0.75,Advanced
+Medline Assembly Slovakia s.r.o.,https://medline.eu,47858168,SK47858168,C32.990,other manufacturing n.e.c.,Medium-Impact,0,E,0.68,0.68,Progressing
+"AGARAL, s. r. o.",https://www.ments.sk,44370130,SK44370130,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.69,0.69,Progressing
+Ments s. r. o.,https://www.ments.sk,55681727,SK55681727,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.73,0.73,Advanced
+First American Slovak Insurance Company - Prvá americko-slovenská poisťovňa a.s./AMSLICO/,https://metlife amslico,31402071,SK31402071,K65.110,life insurance,Medium-Impact,0,G,0.75,0.75,Advanced
+Metrostav SK a.s.,metrostav.sk,35721278,SK35721278,F41.201,construction of residential and non-residential buildings,Medium-Impact,0,G,0.8,0.8,Advanced
+"MicroStep-MIS, spol. s r.o.",https://microstep-mis,35791489,SK35791489,C26.510,"manufacture of instruments and appliances for measuring, testing and navigation",Medium-Impact,0,E,0.76,0.76,Advanced
+"Dunajská naftárska spoločnosť, s.r.o.",nafta.sk,36562092,SK36562092,G46.710,"wholesale of solid, liquid and gaseous fuels and related products",Medium-Impact,0,G,0.73,0.73,Advanced
+Národná recyklačná agentúra,https://www.nra.sk/,42396077,SK42396077,S94.999,activities of other membership organisations n.e.c.,Low-Impact,0,G,0.78,0.78,Advanced
+Oberbank Leasing s.r.o.,https://www.oberbank.sk/,35955015,SK35955015,K64.910,financial leasing,Medium-Impact,0,G,0.68,0.68,Progressing
+AutoMarket s. r. o.,https://oma.com,46762451,SK46762451,G45.200,maintenance and repair of motor vehicles,Medium-Impact,0,G,0.69,0.69,Progressing
+OMA & OMA s. r. o.,https://oma.com,35899549,SK35899549,G45.200,maintenance and repair of motor vehicles,Medium-Impact,0,G,0.77,0.77,Advanced
+OpenClassrooms SAS,https://openclassrooms.com,NA,NA,P85.590,other education n.e.c.,Medium-Impact,0,G,0.49,0.49,Emerging
+PARTNERS GROUP SK s.r.o.,https://partners group sk,36750701,SK36750701,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.69,0.69,Progressing
+"NUMERA, s.r.o.",https://www.paulqlaw.com,36290700,SK36290700,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.66,0.66,Progressing
+"PEACOCK ENERGY, s.r.o.",https://peacock and fox,36679518,SK36679518,D35.140,trade of electricity,High-Impact,-0.05,E,0.67,0.62,Progressing
+SIMPLICITY EUROPE a. s.,https://perry soft,51682265,SK51682265,J62.020,computer consultancy activities,Medium-Impact,0,G,0.68,0.68,Progressing
+PETERKA & PARTNERS s.r.o. v likvidácii,https://www.peterkapartners.com,35800364,SK35800364,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.72,0.72,Advanced
+Zdravotná poisťovňa Medipharma,https://poistovna union,34132015,SK34132015,O84.300,compulsory social security activities,Low-Impact,0,S,0.68,0.68,Progressing
+"Union zdravotná poisťovňa, a.s.",https://poistovna union,36284831,SK36284831,O84.300,compulsory social security activities,Low-Impact,0,G,0.76,0.76,Advanced
+PosAm spol. s r.o.,https://posam,00683272,SK00683272,J62.020,computer consultancy activities,Medium-Impact,0,G,0.65,0.65,Progressing
+"Poštová banka, a.s. pobočka Poprad, o.z.",https://postova banka,31318939,SK31318939,K64.190,other monetary intermediation,Medium-Impact,0,G,0.71,0.71,Advanced
+"Prima banka Slovensko, a.s.",https://www.primabanka.sk/,31575951,SK31575951,K64.190,other monetary intermediation,Medium-Impact,0,G,0.73,0.73,Advanced
+"Penta Bank, a. s.",https://www.privatbanka.sk/,31634419,SK31634419,K64.190,other monetary intermediation,Medium-Impact,0,G,0.65,0.65,Progressing
+PRK Partners s. r. o.,https://www.prkpartners.com,35978643,SK35978643,M69.100,legal activities,Medium-Impact,0,G,0.74,0.74,Advanced
+Prosofting s.r.o.,https://prosoft,31713009,SK31713009,J62.020,computer consultancy activities,Medium-Impact,0,G,0.67,0.67,Progressing
+"BRANDEX, s.r.o.",https://www.rande.sk/,35789280,SK35789280,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.7,0.7,Advanced
+Advokátska kancelária RELEVANS s. r. o.,https://www.relevans.sk,47232471,SK47232471,M69.100,legal activities,Medium-Impact,0,G,0.75,0.75,Advanced
+"Bookkeeping, s.r.o.",https://www.reo-am.sk/,44742789,SK44742789,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.77,0.77,Advanced
+PresCorps spol. s r.o.,https://resco,47461187,SK47461187,J58.190,other publishing activities,Medium-Impact,0,G,0.73,0.73,Advanced
+"REO AMOS SLOVAKIA, s.r.o.",https://www.reo-am.sk/,31400221,SK31400221,G46.190,agents involved in the sale of a variety of goods,Medium-Impact,0,G,0.69,0.69,Progressing
+CRAFT PRODUCTS BREWERY s.r.o.,https://rewe-group.com,35943688,SK35943688,I56.109,restaurants and mobile food service activities,Low-Impact,0,G,0.66,0.66,Progressing
+BILLA s.r.o. (REWE),https://rewe-group.com,31347037,SK31347037,G47.110,"retail sale in non-specialised stores with food, beverages or tobacco predominating",Medium-Impact,0,G,0.66,0.66,Progressing
+Hydrokol spol. s r. o.,rokoagency.sk,44740239,SK44740239,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.7,0.7,Advanced
+"ROKO, s.r.o.",NA,36458481,SK36458481,G46.390,"non-specialised wholesale of food, beverages and tobacco",Medium-Impact,0,G,0.75,0.75,Advanced
+RUŽIČKA AND PARTNERS s. r. o.,https://www.ruzickapartners.sk,36863360,SK36863360,M69.100,legal activities,Medium-Impact,0,G,0.65,0.65,Progressing
+"SIMPLEA FINANCIAL SERVICES, s.r.o.",https://simplea insurance,53725654,SK53725654,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.68,0.68,Progressing
+"LQ-THERM, s.r.o.",NA,31381154,SK31381154,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.79,0.79,Advanced
+"SLOVAK INSURANCE BROKERAGE, s.r.o.",NA,36466808,SK36466808,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.79,0.79,Advanced
+"Slovak Lines, a.s.",slovaklines.sk,35821019,SK35821019,H49.310,urban and suburban passenger land transport,Medium-Impact,0,G,0.76,0.76,Advanced
+"Slovenská pošta, štátny podnik, Stredoslovenské riaditeľstvo pôšt Banská Bystrica skratka SsRP",slposta.sk,36631124,SK36631124,H53.100,postal activities under universal service obligation,Medium-Impact,0,G,0.7,0.7,Advanced
+"Slovenská sporiteľňa, a.s. Mestská pobočka Trenčín",https://www.slsp.sk/sk/ludia,00151653,SK00151653,K64.190,other monetary intermediation,Medium-Impact,0,G,0.73,0.73,Advanced
+"Slovenské elektrárne, a.s. Vodné elektrárne, odštepný závod",seas.sk,35829052,SK35829052,D35.110,production of electricity,High-Impact,-0.05,E,0.76,0.71,Advanced
+"Slovenský plynárenský priemysel, a.s. OZ Nové Mesto nad Váhom",https://www.spp.sk/en/,35815256,SK35815256,D35.230,trade of gas through mains,High-Impact,-0.05,E,0.74,0.69,Progressing
+Slovpaper Recycling s.r.o.,https://smurfitkappa.com,36527378,SK36527378,G46.770,wholesale of waste and scrap,Medium-Impact,0,G,0.74,0.74,Advanced
+"SOITRON SK, s.r.o.",https://www.soitron.com,35955678,SK35955678,J62.090,other information technology and computer service activities,Medium-Impact,0,G,0.68,0.68,Progressing
+SPP Mobilita s. r. o.,sppcng.sk,47552549,SK47552549,G46.190,agents involved in the sale of a variety of goods,Medium-Impact,0,G,0.68,0.68,Progressing
+K7K s.r.o.,http://www.rekult.sk/,46354131,SK46354131,G46.730,"wholesale of wood, construction materials and sanitary equipment",Medium-Impact,0,G,0.71,0.71,Advanced
+"Stredoslovenská vodárenská spoločnosť, a.s., Odštepný závod 03 Prievidza",sse.sk,36644030,SK36644030,E36.000,"water collection, treatment and supply",Medium-Impact,0,E,0.79,0.79,Advanced
+"Swancar, s.r.o.",swan.sk,44253621,SK44253621,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.79,0.79,Advanced
+"Tatra banka, a.s.",https://www.tatrabanka.sk/en/personal/,00686930,SK00686930,K64.190,other monetary intermediation,Medium-Impact,0,G,0.76,0.76,Advanced
+"TATRAVOD, s.r.o.",http://www.tatravod.sk/,36473685,SK36473685,E36.000,"water collection, treatment and supply",Medium-Impact,0,E,0.76,0.76,Advanced
+TAYLORS s.r.o.,https://www.taylorwessing.com,36768821,SK36768821,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.73,0.73,Advanced
+"TEMPEST - Plasty, s.r.o.",https://tempest,36524298,SK36524298,C22.290,manufacture of other plastic products,Medium-Impact,0,E,0.65,0.65,Progressing
+TETRA PAK - GRAFOBAL spol. s r.o.,https://tetrapak.com,31436081,SK31436081,C17.210,manufacture of corrugated paper and paperboard and of containers of paper and paperboard,Medium-Impact,0,E,0.74,0.74,Advanced
+"Knowledge Club Slovakia, s. r. o.",https://theknowledgeacademy.com,46650733,SK46650733,P85.590,other education n.e.c.,Medium-Impact,0,G,0.78,0.78,Advanced
+THIS IS LOCCO s. r. o.,thisislocco.sk,44908849,SK44908849,M73.110,advertising agencies,Medium-Impact,0,G,0.76,0.76,Advanced
+Unicorn Business Systems SK s. r. o.,https://www.unicorn.com/,35771917,SK35771917,J62.010,computer programming activities,Medium-Impact,0,G,0.72,0.72,Advanced
+"BAUVEX, spol. s r.o. v likvidácii",https://uvex.com,34110631,SK34110631,F41.200,construction of residential and non-residential buildings,Medium-Impact,0,G,0.73,0.73,Advanced
+"DEVELOPMENT.SK, s. r. o.",vahostav-sk.sk,35830239,SK35830239,L68.320,management of real estate on a fee or contract basis,Medium-Impact,0,G,0.73,0.73,Advanced
+VESTAS SLOVAKIA spol. s r. o.,https://vestas.com,44620161,SK44620161,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.65,0.65,Progressing
+"VISIONIS, s. r. o.",http://www.visionitgroup.sk/,35944374,SK35944374,G47.520,"retail sale of hardware, paints and glass in specialised stores",Medium-Impact,0,G,0.7,0.7,Advanced
+"VODOHOSPODÁRSKA VÝSTAVBA, ŠTÁTNY PODNIK",http://www.vvb.sk/,00156752,SK00156752,D35.110,production of electricity,High-Impact,-0.05,E,0.74,0.69,Progressing
+SERVUBEST s.r.o.,https://vub banka,47803878,SK47803878,J62.010,computer programming activities,Medium-Impact,0,G,0.77,0.77,Advanced
+"Všeobecná úverová banka, a.s.; skrátený názov: VÚB, a.s.",https://vub banka,31320155,SK31320155,K64.190,other monetary intermediation,Medium-Impact,0,G,0.7,0.7,Advanced
+"Východoslovenská ťažobná, spol. s r.o.",vsds.sk,36635952,SK36635952,M71.122,engineering activities and related technical consultancy,Medium-Impact,0,G,0.71,0.71,Advanced
+Wallbox Chargers S.L.,https://wallbox.com,NA,NA,C27.900,manufacture of other electrical equipment,Medium-Impact,0,E,0.46,0.46,Emerging
+"WIKTOR LEO BURNETT ADVERTISING, s.r.o.",leoburnett.sk,31334938,SK31334938,M73.110,advertising agencies,Medium-Impact,0,G,0.74,0.74,Advanced
+"Wüstenrot stavebná sporiteľňa, a.s.",https://www.wuestenrot.sk/,31351026,SK31351026,K64.190,other monetary intermediation,Medium-Impact,0,G,0.76,0.76,Advanced
+Zalando SE,https://zalando.com,NA,NA,G47.910,retail sale via mail order houses or via Internet,Medium-Impact,0,G,0.71,0.71,Advanced
+"Západoslovenská energetika, a.s.",zse.sk,35823551,SK35823551,M70.100,activities of head offices,Medium-Impact,0,G,0.79,0.79,Advanced
+Muzeologická spoločnosť na Matúšovej zemi - Mátyusföldi Muzeológiai Társaság,https://www.zeologic.sk/,31795480,SK31795480,S94.992,activities of other membership organisations n.e.c.,Low-Impact,0,G,0.79,0.79,Advanced
+"ZUNO AG, organizačná zložka",https://www.zuno.sk/,36867594,SK36867594,K64.190,other monetary intermediation,Medium-Impact,0,G,0.69,0.69,Progressing
+"LSPP Nové Mesto nad Váhom, spol. s r.o.",https://www.spp.sk,36295612,SK36295612,Q86.210,general medical practice activities,Medium-Impact,0,G,0.76,0.76,Advanced
+"Orange Slovensko, a.s.",https://www.orangeslovensko.sk,35697270,SK35697270,J61.200,wireless telecommunications activities,Medium-Impact,0,G,0.79,0.79,Advanced
+"Slovak Telekom, a.s.",https://www.slovaktelekom.sk,35763469,SK35763469,J61.100,wired telecommunications activities,Medium-Impact,0,G,0.74,0.74,Advanced
+Telefónica O2 Slovakia s.r.o.,https://www.o2slovakia.sk,35848863,SK35848863,J61.200,wireless telecommunications activities,Medium-Impact,0,G,0.74,0.74,Advanced
+"HAMA - Audit, s.r.o.",https://www.deloitteslovakia.sk,35700416,SK35700416,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.79,0.79,Advanced
+"PricewaterhouseCoopers Legal, s.r.o., skratka obchodného mena PwC Legal, s.r.o.",https://www.pwcslovakia.sk,47235772,SK47235772,M69.100,legal activities,Medium-Impact,0,G,0.78,0.78,Advanced
+"Ernst & Young, s.r.o.",https://www.eyslovakia.sk,35739347,SK35739347,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.74,0.74,Advanced
+KPMG Slovensko spol. s r.o.,https://www.kpmgslovakia.sk,31348238,SK31348238,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.77,0.77,Advanced
+"ELMEC-STAV, s.r.o.",https://www.tescoslovakia.sk,46398325,SK46398325,M71.121,engineering activities and related technical consultancy,Medium-Impact,0,G,0.67,0.67,Progressing
+PF&MK s.r.o. v likvidácii,https://www.lidlslovakia.sk,48259276,SK48259276,G46.490,wholesale of other household goods,Medium-Impact,0,G,0.76,0.76,Advanced
+"Lidl Slovenská republika, v.o.s.",https://www.lidlslovakia.sk,35793783,SK35793783,G47.110,"retail sale in non-specialised stores with food, beverages or tobacco predominating",Medium-Impact,0,G,0.74,0.74,Advanced
+Kaufland Management SK s.r.o.,https://www.kauflandslovakia.sk,35788542,SK35788542,L68.200,rental and operating of own or leased real estate,Medium-Impact,0,G,0.67,0.67,Progressing
+"BILLABONK, s. r. o.",https://www.billaslovakia.sk,44513593,SK44513593,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.66,0.66,Progressing
+UNICOOP SLOVAKIA spol. s r.o. v likvidácii,https://www.coopslovakia.sk,31401180,SK31401180,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.72,0.72,Advanced
+"Stredoslovenské kameňolomy Žilina, s.r.o. (v skratke SKŽ, s.r.o.)",https://www.slovenskéelektrárnerenewables.sk,36425265,SK36425265,C28.920,"manufacture of machinery for mining, quarrying and construction",Medium-Impact,0,E,0.77,0.77,Advanced
+"Slovenské elektrárne, a.s.",https://www.slovenskéelektrárnerenewables.sk,35829052,SK35829052,D35.110,production of electricity,High-Impact,-0.05,E,0.76,0.71,Advanced
+"Petit Press, a.s. divízia týždenníkov, odštepný závod",https://www.petitpress.sk,35790253,SK35790253,J58.130,publishing of newspapers,Medium-Impact,0,G,0.77,0.77,Advanced
+"Centrum pre vedu a výskum, s. r. o.",https://www.kinstellarslovakia.sk,36856738,SK36856738,M72.190,other research and experimental development on natural sciences and engineering,Medium-Impact,0,G,0.68,0.68,Progressing
+Schönherr Rechtsanwälte,https://www.schoenherrslovakia.sk,36862592,SK36862592,M69.100,legal activities,Medium-Impact,0,G,0.79,0.79,Advanced
+"WOLF THEISS, organizačná zložka",https://www.wolftheissslovakia.sk,36063894,SK36063894,M69.100,legal activities,Medium-Impact,0,G,0.69,0.69,Progressing
+"Asseco Central Europe, a. s.",https://www.assecoslovakia.sk,35760419,SK35760419,J58.290,other software publishing,Medium-Impact,0,G,0.67,0.67,Progressing
+DOTYKY PRÍRODY s.r.o.,https://www.esetslovakia.sk,35895420,SK35895420,G46.690,wholesale of other machinery and equipment,Medium-Impact,0,G,0.76,0.76,Advanced
+"ESET, spol. s r.o.",https://www.esetslovakia.sk,31333532,SK31333532,J62.090,other information technology and computer service activities,Medium-Impact,0,G,0.7,0.7,Advanced
+A.M.C. - A Správa nehnuteľností s.r.o.,https://www.nehnutelnostislovakia.sk,35861266,SK35861266,L68.320,management of real estate on a fee or contract basis,Medium-Impact,0,G,0.77,0.77,Advanced
+SLOVAK REAL ESTATE s.r.o.,https://www.nehnutelnostislovakia.sk,35882581,SK35882581,L68.310,real estate agencies,Medium-Impact,0,G,0.71,0.71,Advanced
+"PIP Safety Slovakia, s. r. o.",https://www.honeywellsafetyproductsslovakia.sk,36321702,SK36321702,N82.110,combined office administrative service activities,Medium-Impact,0,G,0.75,0.75,Advanced
+"REVOLUTION MEDIA, s.r.o.",https://www.revolutslovakia.sk,47373024,SK47373024,G46.190,agents involved in the sale of a variety of goods,Medium-Impact,0,G,0.77,0.77,Advanced
+eZmluva.sk N263 s. r. o.,https://www.n26slovakia.sk,36266825,SK36266825,M73.200,market research and public opinion polling,Medium-Impact,0,G,0.68,0.68,Progressing
+N26 Slovakia,https://www.n26slovakia.sk,NA,NA,K64.190,other monetary intermediation,Medium-Impact,0,G,0.36,0.36,Limited
+Bunq B.V.,https://www.bunqslovakia.sk,NA,NA,K64.190,other monetary intermediation,Medium-Impact,0,G,0.38,0.38,Limited
+Wise Group s.r.o.,https://www.wiseslovakia.sk,47582880,SK47582880,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.75,0.75,Advanced
+"PayPal Europe (S.à r.l. et Cie, S.C.A.)",https://www.paypalslovakia.sk,NA,NA,K66.190,"other activities auxiliary to financial services, except insurance and pension funding",Medium-Impact,0,G,0.79,0.79,Advanced
+Martina Ťavodová - Striped Pyjama Horse,https://www.stripeslovakia.sk,41654927,SK41654927,K66.190,"other activities auxiliary to financial services, except insurance and pension funding",Medium-Impact,0,G,0.73,0.73,Advanced
+Stripe Slovakia,https://www.stripeslovakia.sk,NA,NA,K66.190,"other activities auxiliary to financial services, except insurance and pension funding",Medium-Impact,0,G,0.74,0.74,Advanced
+KETOROD s.r.o.,https://www.etoroslovakia.sk,46958169,SK46958169,C25.620,machining,Medium-Impact,0,E,0.68,0.68,Progressing
+NewTide Slovakia s. r. o.,https://www.tideslovakia.sk,57136637,SK57136637,J62.020,computer consultancy activities,Medium-Impact,0,G,0.73,0.73,Advanced
+"ABS SPV, spol. s r. o. v likvidácii",https://www.allianzslovakia.sk,35869569,SK35869569,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.68,0.68,Progressing
+"Generali Consulting, s.r.o.",https://www.generalislovakia.sk,35965690,SK35965690,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.72,0.72,Advanced
+"Poisťovňa Slovenskej sporiteľne, a.s. Vienna Insurance Group",https://www.viennainsurancegroupslovakia.sk,35851023,SK35851023,K65.110,life insurance,Medium-Impact,0,G,0.7,0.7,Advanced
+Talanx AG / HDI,https://www.talanxslovakia.sk,NA,NA,K65.120,non-life insurance,Medium-Impact,0,G,0.67,0.67,Progressing
+"Servisná spoločnosť Partner, s. r. o.",https://www.aegonslovakia.sk,36610984,SK36610984,N82.110,combined office administrative service activities,Medium-Impact,0,G,0.68,0.68,Progressing
+"NN Group, s.r.o.",https://www.nngroupslovakia.sk,53096878,SK53096878,F43.210,electrical installation,Medium-Impact,0,G,0.76,0.76,Advanced
+"Wüstenrot Servis, spol. s r.o. v likvidácii",https://www.wüstenrotslovakia.sk,35735007,SK35735007,M71.129,engineering activities and related technical consultancy,Medium-Impact,0,G,0.71,0.71,Advanced
+Tamanka s. r. o.,https://www.axapartnersslovakia.sk,44701560,SK44701560,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.71,0.71,Advanced
+Chubb European Group SE,https://www.chubbslovakia.sk,NA,NA,K65.120,non-life insurance,Medium-Impact,0,G,0.72,0.72,Advanced
+MARSHALL CAPITAL s.r.o.,https://www.marshslovakia.sk,35809175,SK35809175,G46.510,"wholesale of computers, computer peripheral equipment and software",Medium-Impact,0,G,0.71,0.71,Advanced
+"MAON Slovakia, s. r. o.",https://www.aonslovakia.sk,43985122,SK43985122,E38.320,recovery of sorted materials,Medium-Impact,0,E,0.67,0.67,Progressing
+"Willis Towers Watson Insurance Broking (Slovak Republic), organizačná zložka",https://www.willistowerswatsonslovakia.sk,36730297,SK36730297,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.77,0.77,Advanced
+STARRDENT s. r. o.,https://www.starrinsuranceslovakia.sk,45724571,SK45724571,G46.180,agents specialised in the sale of other particular products,Medium-Impact,0,G,0.74,0.74,Advanced
+"AIG Slovakia a.s., v likvidácii",https://www.aigslovakia.sk,35753722,SK35753722,L68.200,rental and operating of own or leased real estate,Medium-Impact,0,G,0.77,0.77,Advanced
+TRAVELERS s. r. o.,https://www.travelersslovakia.sk,43797440,SK43797440,R92.000,gambling and betting activities,Low-Impact,0,G,0.77,0.77,Advanced
+Jozef Kučera KELLY TRANS s. r. o.,https://www.kellyservicesslovakia.sk,44899793,SK44899793,H49.410,freight transport by road,Medium-Impact,0,S,0.79,0.79,Advanced
+ManpowerGroup s.r.o.,https://www.experisslovakia.sk,35711718,SK35711718,N78.200,temporary employment agency activities,High-Impact,-0.05,S,0.78,0.73,Advanced
+"Gi Group Slovakia, s.r.o.",https://www.gigroupslovakia.sk,47060417,SK47060417,N82.990,other business support service activities n.e.c.,Medium-Impact,0,G,0.7,0.7,Advanced
+SYNERGIE Slovakia s.r.o.,https://www.synergieslovakia.sk,35766239,SK35766239,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.69,0.69,Progressing
+"SiriusGlobal, s.r.o.",https://www.usgpeopleslovakia.sk,36791148,SK36791148,G47.990,"other retail sale not in stores, stalls or markets",Medium-Impact,0,G,0.76,0.76,Advanced
+"brunel, s. r. o. v konkurze",https://www.brunelslovakia.sk,44215258,SK44215258,M70.220,business and other management consultancy activities,Medium-Impact,0,G,0.76,0.76,Advanced
+"Grafton Recruitment Slovakia, s.r.o.",https://www.graftonrecruitmentslovakia.sk,35874155,SK35874155,N78.100,activities of employment placement agencies,Medium-Impact,0,G,0.79,0.79,Advanced
+Juraj JAMRIŠKA-MODISH,https://www.modisslovakia.sk,11778679,SK11778679,M74.90,"other professional, scientific and technical activities n.e.c.",Medium-Impact,0,G,0.77,0.77,Advanced
+Adecco Slovakia s.r.o.,https://www.akkodisslovakia.sk,35792345,SK35792345,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.67,0.67,Progressing
+Springtime 2012 s.r.o.,https://www.springprofessionalslovakia.sk,46851496,SK46851496,G46.900,non-specialised wholesale trade,Medium-Impact,0,G,0.69,0.69,Progressing
+Barona FINLAND s.r.o.,https://www.baronaslovakia.sk,36728721,SK36728721,N78.100,activities of employment placement agencies,Medium-Impact,0,G,0.68,0.68,Progressing
+Newsec,https://www.newsecslovakia.sk,NA,NA,L68.310,real estate agencies,Medium-Impact,0,G,0.51,0.51,Emerging
+"M+W Zander Facility Engineering, s.r.o.",https://www.caverionslovakia.sk,35760907,SK35760907,G47.590,"retail sale of furniture, lighting equipment and other household articles in specialised stores",Medium-Impact,0,G,0.67,0.67,Progressing
+"Bravida Säkerhet Aktiebolag, organizačná zložka",https://www.bravidaslovakia.sk,44828756,SK44828756,J62.010,computer programming activities,Medium-Impact,0,G,0.67,0.67,Progressing
+"CoWICo, s.r.o.",https://www.cowislovakia.sk,35870851,SK35870851,J62.090,other information technology and computer service activities,Medium-Impact,0,G,0.66,0.66,Progressing
+Norconsult,https://www.norconsultslovakia.sk,NA,NA,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.36,0.36,Limited
+Multiconsult,https://www.multiconsultslovakia.sk,NA,NA,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.46,0.46,Emerging
+AFRY Slovakia s. r. o.,https://www.afryslovakia.sk,56661991,SK56661991,F41.209,construction of residential and non-residential buildings,Medium-Impact,0,G,0.67,0.67,Progressing
+"AQUATIS a.s., organizačná zložka",https://www.pöyryslovakia.sk,37916408,SK37916408,M71.129,engineering activities and related technical consultancy,Medium-Impact,0,G,0.76,0.76,Advanced
+Rejlers,https://www.rejlersslovakia.sk,NA,NA,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.5,0.5,Emerging
+Etteplan Slovakia s.r.o.,https://www.etteplanslovakia.sk,50465499,SK50465499,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.78,0.78,Advanced
+Semcon,https://www.semconslovakia.sk,NA,NA,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.45,0.45,Emerging
+AFRY / ÅF Pöyry,https://www.åfpöyryslovakia.sk,NA,NA,M71.120,engineering activities and related technical consultancy,Medium-Impact,0,G,0.52,0.52,Emerging
+Wallbox Chargers S.L. (Duplicate),https://www.wallboxslovakia.sk,NA,NA,C27.900,manufacture of other electrical equipment,Medium-Impact,0,E,0.44,0.44,Emerging
+"ČSOB Leasing poisťovací maklér, s.r.o.",https://www.čsobslovakia.sk,35887222,SK35887222,K66.220,activities of insurance agents and brokers,Medium-Impact,0,G,0.67,0.67,Progressing
+UniCredit Bank Slovakia a. s.,https://www.unicreditbankslovakia.sk,00681709,SK00681709,K64.190,other monetary intermediation,Medium-Impact,0,G,0.72,0.72,Advanced
+"LSPP Nové Mesto nad Váhom, spol. s r.o.",https://www.spp.sk,36295612,SK36295612,Q86.210,general medical practice activities,Medium-Impact,0,G,0.8,0.8,Advanced
+"Bratislavská vodárenská spoločnosť, a.s.",https://www.bratislavskávodárenskáspoločnosť.sk,35850370,SK35850370,E36.001,"water collection, treatment and supply",Medium-Impact,0,E,0.72,0.72,Advanced
+"ERSTE PLUS, s.r.o.",https://www.erstebankslovakia.sk,36559971,SK36559971,C33.140,repair of electrical equipment,Medium-Impact,0,E,0.69,0.69,Progressing
+"mBank S.A., pobočka zahraničnej banky",https://www.mbankslovakia.sk,36819638,SK36819638,K64.190,other monetary intermediation,Medium-Impact,0,G,0.69,0.69,Progressing
+"365.bank, a. s.",https://www.365bank.sk,31340890,SK31340890,K64.190,other monetary intermediation,Medium-Impact,0,G,0.73,0.73,Advanced
+"Tatra banka, a.s.",https://www.raiffeisenbankslovakia.sk,31300437,SK31300437,K64.190,other monetary intermediation,Medium-Impact,0,G,0.75,0.75,Advanced
+"COOP Jednota Trenčín, spotrebné družstvo",https://www.coopjednotaslovakia.sk,00168912,SK00168912,G47.110,"retail sale in non-specialised stores with food, beverages or tobacco predominating",Medium-Impact,0,G,0.7,0.7,Advanced
+"Železnice Slovenskej republiky /v skratke ŽSR, š.p./",https://www.žsrslovakia.sk,31338861,SK31338861,H52.21,service activities incidental to land transportation,Medium-Impact,0,G,0.66,0.66,Progressing
+"Železnice Slovenskej republiky /v skratke ŽSR, š.p./",https://www.žsrcargo.sk,31338861,SK31338861,H52.21,service activities incidental to land transportation,Medium-Impact,0,G,0.72,0.72,Advanced
+Sygic a. s.,https://www.sygic.sk,35892030,SK35892030,J62.010,computer programming activities,Medium-Impact,0,G,0.78,0.78,Advanced
+"PIXEL FEDERATION, s.r.o.",https://www.pixelfederation.sk,36816388,SK36816388,J62.010,computer programming activities,Medium-Impact,0,G,0.74,0.74,Advanced
+AIESEC Slovensko - Slovenské združenie študentov vysokých škôl ekonomických a obchodných - AIESEC LC Comenius University,https://www.comeniusuniversityslovakia.sk,31792610,SK31792610,S94.99,activities of other membership organisations n.e.c.,Low-Impact,0,G,0.7,0.7,Advanced
+Slovpaper Recycling s.r.o.,https://www.smurfitkappaslovakia.sk,36527378,SK36527378,G46.770,wholesale of waste and scrap,Medium-Impact,0,G,0.73,0.73,Advanced
+A4ka s.r.o.,https://www.4kaslovakia.sk,46891587,SK46891587,M73.110,advertising agencies,Medium-Impact,0,G,0.78,0.78,Advanced
+"ŠepStav, s.r.o.",https://www.sepsslovakia.sk,48265667,SK48265667,F41.209,construction of residential and non-residential buildings,Medium-Impact,0,G,0.72,0.72,Advanced
+"SPP - preprava, a.s.",https://www.eustreamslovakia.sk,35910712,SK35910712,H49.501,transport via pipeline,Medium-Impact,0,G,0.68,0.68,Progressing
+"Východoslovenská distribučná, a.s.",https://www.východoslovenskádistribučná.sk,36599361,SK36599361,D35.130,distribution of electricity,High-Impact,-0.05,E,0.73,0.68,Progressing
+"Stredoslovenská distribučná, a.s.",https://www.stredoslovenskádistribučná.sk,36442151,SK36442151,D35.130,distribution of electricity,High-Impact,-0.05,E,0.79,0.74,Advanced
+"ZSE distribúcia, a.s.",https://www.západoslovenskádistribučná.sk,36361518,SK36361518,D35.130,distribution of electricity,High-Impact,-0.05,E,0.7,0.65,Progressing
+"FCC Ekologické služby, s. r. o. v likvidácii",https://www.ekologickéslužbyslovakia.sk,35900491,SK35900491,E38.320,recovery of sorted materials,Medium-Impact,0,E,0.77,0.77,Advanced
+"SLOPAK- T, spol. s r.o.",https://www.slopakslovakia.sk,35711116,SK35711116,G47.590,"retail sale of furniture, lighting equipment and other household articles in specialised stores",Medium-Impact,0,G,0.7,0.7,Advanced
+"Gerlach Labs SK, a.s.",https://www.bdoslovakia.sk,36785041,SK36785041,L68.200,rental and operating of own or leased real estate,Medium-Impact,0,G,0.68,0.68,Progressing
+GRANT THORNTON ACI SLOVAKIA spol. s r.o.,https://www.grantthorntonslovakia.sk,31359582,SK31359582,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.66,0.66,Progressing
+"RSM Slovakia, s.r.o.",https://www.rsmslovakia.sk,46564403,SK46564403,I56.300,beverage serving activities,Low-Impact,0,G,0.69,0.69,Progressing
+Mazars Accounting s.r.o.,https://www.mazarsslovakia.sk,35947373,SK35947373,M69.200,"accounting, bookkeeping and auditing activities; tax consultancy",Medium-Impact,0,G,0.7,0.7,Advanced
+Affidea Slovensko s.r.o.,https://www.affideaslovakia.sk,35940426,SK35940426,Q86.220,specialist medical practice activities,Medium-Impact,0,S,0.67,0.67,Progressing
+synlab slovakia s. r. o.,https://www.synlabslovakia.sk,35878151,SK35878151,Q86.901,other human health activities,Medium-Impact,0,G,0.7,0.7,Advanced
+"Unilabs Slovensko, s. r. o.",https://www.unilabsslovakia.sk,31647758,SK31647758,Q86.909,other human health activities,Medium-Impact,0,G,0.65,0.65,Progressing
+AXA Partners Slovakia,https://www.axapartnersslovakia.sk,NA,NA,K65.120,Non-life insurance & assistance,Medium-Impact,0,G,0.8,0.8,Advanced
+"Kelly Services.sk, s.r.o.",https://www.kellyservicesslovakia.sk,35787627,SK35787627,N78.200,Temporary staffing / recruitment,Medium-Impact,0,S,0.77,0.77,Advanced
+Start People / USG,https://www.usgpeopleslovakia.sk,44102601,SK44102601,N78.200,Temporary staffing / recruitment,Medium-Impact,0,G,0.66,0.66,Progressing
+Modis Slovakia,https://www.modisslovakia.sk,35792345,SK35792345,J62.020,IT consulting / Tech staffing,Medium-Impact,0,G,0.78,0.78,Advanced
+SPP (Slovenský plynárenský priemysel),https://www.spp.sk,35815256,SK35815256,D35.120,trade of gas through mains,High-Impact,-0.05,E,0.73,0.68,Progressing
+ŽSR Slovakia,https://www.žsrslovakia.sk,31364501,SK31364501,H52.210,service activities incidental to land transportation,Medium-Impact,0,G,0.71,0.71,Advanced
+ŽSR Cargo,https://www.žsrcargo.sk,35914921,SK35914921,H49.200,freight rail transport,Medium-Impact,0,G,0.66,0.66,Progressing
+Comenius University Slovakia,https://www.comeniusuniversityslovakia.sk,00397865,SK00397865,P85.420,tertiary education,Medium-Impact,0,G,0.73,0.73,Advanced
+"SWAN, a.s.",https://www.4kaslovakia.sk,47258314,SK47258314,J61.200,wireless telecommunications activities,Medium-Impact,0,G,0.66,0.66,Progressing
+SEPS Slovakia,https://www.sepsslovakia.sk,35829141,SK35829141,D35.120,transmission of electricity,High-Impact,-0.05,E,0.68,0.63,Progressing
