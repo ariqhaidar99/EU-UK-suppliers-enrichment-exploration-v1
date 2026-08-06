@@ -2,7 +2,7 @@
 
 ## 1. Overview & Necessity
 Due to a lack of immediate access to premium third-party ESG databases (e.g., MSCI, Sustainalytics) and the high resource cost of manually verifying hundreds of entities against open-source registries, a proxy scoring model was implemented. 
-This model strictly adheres to the established project scoring framework, substituting empirical certification data with deterministic heuristics based on corporate size, EU regulatory compliance requirements, and sector-specific impact.
+This model strictly substitutes empirical certification data with deterministic heuristics based on corporate size, EU regulatory compliance requirements, and sector-specific impact.
 
 ---
 
